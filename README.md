@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-Hi everyone, Akshadha here !<br>I am currently pursuing Integrated M.Sc. in Computer Science (AI and DS).
+Hi everyone, Akshadha here !<br>I am currently pursuing Integrated M.Sc. in Computer Science (AI and DS) at Cochin University of Science and Technology.
 
 
 # 💻 Tech Stack:
