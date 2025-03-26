@@ -31,4 +31,4 @@ Hi everyone, Akshadha here !<br>I am currently pursuing Integrated M.Sc. in Comp
 ---
 [![](https://visitcount.itsvg.in/api?id=AksA1210&icon=0&color=0)](https://visitcount.itsvg.in)
 
-#![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+`![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)`
